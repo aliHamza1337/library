@@ -5,7 +5,6 @@ A simple, lightweight web application built with **vanilla JavaScript** that all
 - Add books with title, author, and number of pages
 - Toggle read/unread status
 - Remove books from the library
-- Data persists in **localStorage**
 
 ## Installation
 1. Clone the repository:
